@@ -54,12 +54,4 @@ Copy code
 cd spotify-clone
 Open the index.html file in your browser to explore the Spotify Clone.
 
-Contributing
-Contributions are welcome! To contribute:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Commit your changes and push to the branch.
-Open a pull request, and describe your changes.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
