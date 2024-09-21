@@ -34,13 +34,15 @@ This project is a Spotify Clone website built with HTML, CSS, and Bootstrap. It 
 ### Mobile View
 ![Hero Section](https://i.ibb.co/mJ3LJgV/mobile-view.png)
 
+## Demo
 
-Future Enhancements
+You can view the live demo of the Netflix clone https://shariffdevmern.github.io/Spotify-Clone/
+
+### Future Enhancements
 Implementing a backend to serve music files.
 Adding real-time music streaming.
 User authentication and personalized playlists.
-License
-This project is licensed under the MIT License.
+
 ## How to Use
 
 1. Clone this repository using the following command:
