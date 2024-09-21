@@ -27,6 +27,19 @@ This project is a Spotify Clone website built with HTML, CSS, and Bootstrap. It 
 - **JavaScript**: Adds functionality to UI components.
 - **CDN**: Bootstrap, Font Awesome, and Popper.js are used through CDN for fast delivery.
 
+### Screenshots
+Desktop View
+
+
+Mobile View
+
+
+Future Enhancements
+Implementing a backend to serve music files.
+Adding real-time music streaming.
+User authentication and personalized playlists.
+License
+This project is licensed under the MIT License.
 ## How to Use
 
 1. Clone this repository using the following command:
