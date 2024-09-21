@@ -28,10 +28,12 @@ This project is a Spotify Clone website built with HTML, CSS, and Bootstrap. It 
 - **CDN**: Bootstrap, Font Awesome, and Popper.js are used through CDN for fast delivery.
 
 ### Screenshots
-Desktop View
+### Desktop View
+![Hero Section](https://i.ibb.co/8rJG5V8/desktop-view.png)
 
 
-Mobile View
+### Mobile View
+![Hero Section](https://i.ibb.co/mJ3LJgV/mobile-view.png)
 
 
 Future Enhancements
