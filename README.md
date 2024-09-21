@@ -7,8 +7,7 @@ This project is a Spotify Clone website built with HTML, CSS, and Bootstrap. It 
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
